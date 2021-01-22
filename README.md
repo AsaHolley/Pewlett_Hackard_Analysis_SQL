@@ -20,8 +20,7 @@ The purpose of this Analysis of the Pewlett Hackard companies’ employee struct
 
 
 ## Summary ##
- * **How many roles will need to be filled as the "silver tsunami" begins to make an impact?** A Total of 90,398 roles will need to be filled due to the silver    
-  tsunami.
+ * **How many roles will need to be filled as the "silver tsunami" begins to make an impact?** A Total of 90,398 roles will need to be filled due to the silver   tsunami.
   
   *  **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?** With only 1,549       
   employees eligble for the mentorship program, that means each mentor will need to have 60+ mentees to fill all the positions soon to become open. 
