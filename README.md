@@ -20,7 +20,15 @@ The purpose of this Analysis of the Pewlett Hackard companies’ employee struct
 
 
 ## Summary ##
-  * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  *
-  *
+ * **How many roles will need to be filled as the "silver tsunami" begins to make an impact?** A Total of 90,398 roles will need to be filled due to the silver    
+  tsunami.
+  
+  *  **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?** With only 1,549       
+  employees eligble for the mentorship program, that means each mentor will need to have 60+ mentees to fill all the positions soon to become open. 
+  
+  * A new query that is necessary to further investigate this issue to see if there are enough existing employees in each department to fill the more senior roles  
+  and also to back fill roles are folks move up. This will help HR better calibrate its recruiting efforts. 
+  
+  * Tables showing promotion eligible and ready employees in conjunction with employee retirement dates would be helpful in visualizing the exact timing of the 
+  silver tsunami and how long PH has to correct this issue.   
+
